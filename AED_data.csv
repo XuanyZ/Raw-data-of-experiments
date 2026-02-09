@@ -1,0 +1,10 @@
+﻿Parameter,AAT Autonomous,Values
+fixed cost for one AED,300000 HKD / 5 year = 165 / day,165
+cost for unit electricity consumption of an AED,0.72/kwh = 0.288HKD/1% electricity,0.288
+average handling time for loading or unloading,5 min = 300s,300
+travel speed,25km/h = 7m/s,7
+battery capacity,80V/500Ah 100km = 100% electricity,100
+minimum battery level,20% electricity,0.2
+charging rate or time,50min = 3000s = 0.033/s,0.033
+consuming rate (unloaded),0.002%/m,0.002
+consuming rate (loaded),0.004%/m,0.004
